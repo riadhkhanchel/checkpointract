@@ -1,0 +1,36 @@
+.signInform {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin : 0 20%;
+  background-color: lightgray;
+
+  width :100%;
+ padding : 15px;
+ margin: auto;
+ /*height: 50%;*/
+ /* text-align: center; */
+}
+
+.socialButtons{
+  display :flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+h1{
+  font-size: large;
+  font: lighter;
+}
+
+form{
+  border: 1px dotted #000;
+  background-color: cornsilk;
+  padding: 50px;
+  margin: 10px;
+  border-radius: 15px
+}
+/*input, textarea, select, button {
+  width : 50%;
+}*/
